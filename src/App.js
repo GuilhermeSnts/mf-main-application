@@ -1,15 +1,11 @@
-import logo from "./logo.svg";
 import "./App.css";
-import React from 'react'
-import { SignInPage } from "mf-auth-module";
+import React from "react";
+import Routes from "./router";
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <SignInPage/>
-      </header>
+      <Routes />
     </div>
   );
 }
