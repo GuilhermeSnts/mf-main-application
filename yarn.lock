@@ -7102,6 +7102,17 @@ methods@~1.1.2:
   resolved "https://registry.yarnpkg.com/methods/-/methods-1.1.2.tgz#5529a4d67654134edcc5266656835b0f851afcee"
   integrity sha1-VSmk1nZUE07cxSZmVoNbD4Ua/O4=
 
+mf-auth-module@^0.1.7:
+  version "0.1.7"
+  resolved "https://registry.yarnpkg.com/mf-auth-module/-/mf-auth-module-0.1.7.tgz#358502b8dce9cb7c61eca0fe7f4ad9cfe0760a69"
+  integrity sha512-n1PlcB7CM/T7hR6MvKzDsHtVjZXke/oRrN9M8jFZedMnogPPnv//Zo9lP9yIw5OMaLYpgsGqa7yRSC3ixklzdw==
+  dependencies:
+    "@testing-library/jest-dom" "^5.11.4"
+    "@testing-library/react" "^11.1.0"
+    "@testing-library/user-event" "^12.1.10"
+    react-scripts "4.0.3"
+    web-vitals "^1.0.1"
+
 microevent.ts@~0.1.1:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/microevent.ts/-/microevent.ts-0.1.1.tgz#70b09b83f43df5172d0205a63025bce0f7357fa0"
