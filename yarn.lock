@@ -7196,10 +7196,10 @@ methods@~1.1.2:
   resolved "https://registry.yarnpkg.com/methods/-/methods-1.1.2.tgz#5529a4d67654134edcc5266656835b0f851afcee"
   integrity sha1-VSmk1nZUE07cxSZmVoNbD4Ua/O4=
 
-mf-auth-module@^0.1.10:
-  version "0.1.10"
-  resolved "https://registry.yarnpkg.com/mf-auth-module/-/mf-auth-module-0.1.10.tgz#401e1521ea06ad32b3ee2951bd5addfabfcb9d89"
-  integrity sha512-TwuaXduW12YgsBKPgq+WhbSsLNyTVDw3evOYIZILdNPT6eKwHXDKPnV9VLnGP9EsEoXVP8h1I5E0KThyQrUc7w==
+mf-auth-module@^0.1.11:
+  version "0.1.11"
+  resolved "https://registry.yarnpkg.com/mf-auth-module/-/mf-auth-module-0.1.11.tgz#f95369eb5a5c3932a5fd83db64c99b72cffb34b8"
+  integrity sha512-KX7NVF4GGLgovbldWab8cINzWYPMUTIgN7Tz1gc6DYLCBuwmLUcmX0tXV/Y8M1idg/neXkJcyeHST+trP+uLSA==
   dependencies:
     "@emotion/react" "^11.5.0"
     "@testing-library/jest-dom" "^5.11.4"

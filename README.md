@@ -8,4 +8,4 @@
 
 [to check it online click here](https://poc-mf-npm.vercel.app/signin)
 
-to check it without the package run `git checkout without-mf`
+to check it without the package please access the auth package repository

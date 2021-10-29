@@ -1,13 +1,15 @@
-import React from "react";
+import React, { Suspense } from "react";
 
 import { Switch, BrowserRouter } from "react-router-dom";
 import { AuthRoutes } from "mf-auth-module";
 
 const Router = (props) => {
   return (
-    <BrowserRouter>
-      <Switch {...props}>{AuthRoutes}</Switch>
-    </BrowserRouter>
+    <Suspense fallback={<p>Loading...</p>}>
+      <BrowserRouter>
+        <Switch {...props}>{AuthRoutes}</Switch>
+      </BrowserRouter>
+    </Suspense>
   );
 };
 
